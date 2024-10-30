@@ -1,2 +1,7 @@
-# base-mysql
-auto create base mysql C#
+"# basemysql" 
+"# basemysql" 
+"# basemysql" 
+"# basemysql" 
+"# basemysql" 
+"# basemysql" 
+"# basemysql" 
